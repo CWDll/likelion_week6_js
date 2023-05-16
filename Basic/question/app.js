@@ -247,7 +247,7 @@ console.log(star);
 
 
 
-console.log("======= 문제 구분선 =======");
+console.log("======= 문제 구분선 ======="); 
 
 
 

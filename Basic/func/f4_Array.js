@@ -36,7 +36,7 @@ console.log(str);
 // 배열의 마지막에 새로운 element를 추가해주는 함수
 var fruits = ["Banana", "Orange"];
 fruits.push("Kiwi");
-console.log(fruits); 
+console.log(fruits);  
 // 결과 : ["Banana", "Orange", "Kiwi"]​
 
 
