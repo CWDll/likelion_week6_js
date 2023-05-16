@@ -35,7 +35,7 @@ console.log("month", month);
 
 // getDate - 일을 가져오는 함수
 var date = d.getDate();
-console.log("date", date);
+console.log("date", date); 
 // 결과 : 20
 
 

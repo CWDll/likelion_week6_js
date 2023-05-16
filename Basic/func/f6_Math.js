@@ -3,7 +3,7 @@
 console.log(Math.round(4.9));
 // 결과 : 5
 console.log(Math.round(4.4));
-// 결과 : 4
+// 결과 : 4 
 console.log(Math.round(-4.6));
 // 결과 : -5
 

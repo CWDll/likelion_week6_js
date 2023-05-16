@@ -34,7 +34,7 @@ console.log(str.lastIndexOf("locate"));
 
 
 
-// search
+// search 
 // indexOf함수와 동일한 기능 수행하는 함수
 var str = "Please locate where 'locate'";
 console.log(str.search("locate"));

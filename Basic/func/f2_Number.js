@@ -45,7 +45,7 @@ console.log(parseInt("3.9"));
 console.log(parseInt("10 33"));
 // 결과 : 10
 // 앞에 숫자만 읽고 뒤에 공백이 시작되는 부분부터 버린다.
-// 숫자가 아닌 경우 이러한 방식으로 처리된다.
+// 숫자가 아닌 경우 이러한 방식으로 처리된다. 
 
 console.log(parseInt("12 years"));
 // 결과 : 12
